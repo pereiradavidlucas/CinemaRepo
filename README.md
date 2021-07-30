@@ -1,4 +1,4 @@
 # CinemaRepo
 <img src="Oscar_2017.png">
 
-- teste 
+Repostirio de teste para treinamento git/github -  POO|
