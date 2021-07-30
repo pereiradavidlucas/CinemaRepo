@@ -3,4 +3,5 @@
 – Psicose (1960)
 – O Mágico de Oz (1939)
 – E o Vento Levou (1939)
-<img src="Oscar_2017.png">
+
+img src="Oscar_2017.png"
